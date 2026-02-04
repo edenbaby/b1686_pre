@@ -1,0 +1,4 @@
+name: MinecraftBackpack
+version: '1'
+main: DA.MC.minecraftBackpack.MinecraftBackpack
+api-version: '1.21'
